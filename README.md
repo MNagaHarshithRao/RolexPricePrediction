@@ -23,9 +23,10 @@ This project aims to predict the prices of Rolex watches using machine learning 
 ## 📂 Repository Structure  
 ```
 📁 Rolex_Price_Prediction  
- ├── 📂 data              # Raw & processed datasets  
  ├── 📜 README.md         # Project overview
- ├── 📂 RolexPricePrediction.iynb         # Google Colab Notebooks for model training    
+ ├── 📂 RolexPricePrediction.iynb         # Google Colab Notebooks for model training
+ ├── 📂 dataset - https://www.kaggle.com/datasets/vittoriohaardt/rolex-on-chrono24              # Raw & processed datasets  
+
 ```
 
 ## 🔮 Future Improvements  
